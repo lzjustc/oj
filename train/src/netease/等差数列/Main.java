@@ -1,4 +1,4 @@
-package netease.dengcha;
+package src.netease.等差数列;
 
 import java.util.Arrays;
 import java.util.Scanner;

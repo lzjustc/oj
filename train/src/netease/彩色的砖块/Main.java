@@ -1,4 +1,4 @@
-package netease.caiSe;
+package src.netease.彩色的砖块;
 
 import java.util.Scanner;
 
